@@ -1,0 +1,173 @@
+{
+  "hangszerek":
+  [
+    {
+      "Id": 1,
+      "Nev": "Piano",
+      "Tipus": "Billentyűs",
+      "Marka": "Yamaha",
+      "Ev": 2005
+    },
+    {
+      "Id": 2,
+      "Nev": "Violin",
+      "Tipus": "Húros",
+      "Marka": "Stradivarius",
+      "Ev": 1715
+    },
+    {
+      "Id": 3,
+      "Nev": "Electric Guitar",
+      "Tipus": "Húros",
+      "Marka": "Fender",
+      "Ev": 1950
+    },
+    {
+      "Id": 4,
+      "Nev": "Drums",
+      "Tipus": "Ütős",
+      "Marka": "Pearl",
+      "Ev": 1972
+    },
+    {
+      "Id": 5,
+      "Nev": "Saxophone",
+      "Tipus": "Fúvós",
+      "Marka": "Yamaha",
+      "Ev": 1980
+    },
+    {
+      "Id": 6,
+      "Nev": "Trumpet",
+      "Tipus": "Fúvós",
+      "Marka": "Bach",
+      "Ev": 1925
+    },
+    {
+      "Id": 7,
+      "Nev": "Flute",
+      "Tipus": "Fúvós",
+      "Marka": "Gemeinhardt",
+      "Ev": 1960
+    },
+    {
+      "Id": 8,
+      "Nev": "Cello",
+      "Tipus": "Húros",
+      "Marka": "Stradivarius",
+      "Ev": 1689
+    },
+    {
+      "Id": 9,
+      "Nev": "Clarinet",
+      "Tipus": "Fúvós",
+      "Marka": "Buffet Crampon",
+      "Ev": 1832
+    },
+    {
+      "Id": 10,
+      "Nev": "Acoustic Guitar",
+      "Tipus": "Húros",
+      "Marka": "Martin",
+      "Ev": 1833
+    },
+    {
+      "Id": 11,
+      "Nev": "Synthesizer",
+      "Tipus": "Elektromos",
+      "Marka": "Korg",
+      "Ev": 1973
+    },
+    {
+      "Id": 12,
+      "Nev": "Trombone",
+      "Tipus": "Fúvós",
+      "Marka": "Bach",
+      "Ev": 1928
+    },
+    {
+      "Id": 13,
+      "Nev": "Harmonica",
+      "Tipus": "Fúvós",
+      "Marka": "Hohner",
+      "Ev": 1857
+    },
+    {
+      "Id": 14,
+      "Nev": "Accordion",
+      "Tipus": "Billentyűs",
+      "Marka": "Hohner",
+      "Ev": 1900
+    },
+    {
+      "Id": 15,
+      "Nev": "Organ",
+      "Tipus": "Billentyűs",
+      "Marka": "Hammond",
+      "Ev": 1935
+    },
+    {
+      "Id": 16,
+      "Nev": "Ukulele",
+      "Tipus": "Húros",
+      "Marka": "Martin",
+      "Ev": 1880
+    },
+    {
+      "Id": 17,
+      "Nev": "Viola",
+      "Tipus": "Húros",
+      "Marka": "Stradivarius",
+      "Ev": 1690
+    },
+    {
+      "Id": 18,
+      "Nev": "Bagpipes",
+      "Tipus": "Fúvós",
+      "Marka": "Gibson",
+      "Ev": 1890
+    },
+    {
+      "Id": 19,
+      "Nev": "Harp",
+      "Tipus": "Húros",
+      "Marka": "Salvi",
+      "Ev": 1950
+    },
+    {
+      "Id": 20,
+      "Nev": "Banjo",
+      "Tipus": "Húros",
+      "Marka": "Gibson",
+      "Ev": 1923
+    },
+    {
+      "Id": 21,
+      "Nev": "Xylophone",
+      "Tipus": "Ütős",
+      "Marka": "Deagan",
+      "Ev": 1880
+    },
+    {
+      "Id": 22,
+      "Nev": "Double Bass",
+      "Tipus": "Húros",
+      "Marka": "Gibson",
+      "Ev": 1935
+    },
+    {
+      "Id": 23,
+      "Nev": "Theremin",
+      "Tipus": "Elektromos",
+      "Marka": "Moog",
+      "Ev": 1920
+    },
+    {
+      "Id": 24,
+      "Nev": "Marimba",
+      "Tipus": "Ütős",
+      "Marka": "Yamaha",
+      "Ev": 1950
+    }
+  ]
+}
